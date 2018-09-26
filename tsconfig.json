@@ -16,7 +16,8 @@
   },
   "include": [
     "./config/*",
-    "./src/**/*"
+    "./src/**/*",
+    "./src/**/*.vue"
   ],
   "exclude": [
     "./node_modules",
